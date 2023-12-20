@@ -7,6 +7,7 @@ SMALL ICONS
 --->
 <a href="https://www.linkedin.com/in/manuela-granzotto-29b76574/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
   </a>   
+  
   <a href='https://profile.intra.42.fr/users/mfranke-' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
   </a>
 
