@@ -5,7 +5,7 @@
 <!---
 SMALL ICONS
 --->
-  <a href='www.linkedin.com/in/manuela-granzotto-29b76574' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+  <a href='[www.linkedin.com/in/manuela-granzotto-29b76574](https://br.linkedin.com/in/manuela-granzotto-29b76574)' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
   </a>   
   <a href='https://profile.intra.42.fr/users/mfranke-' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
   </a>
