@@ -1,7 +1,7 @@
 * ## About me
 
 - 🌱 I’m currently studyding at 42Porto school, after successfully completing the Piscine bootcamp.
-- 🌱 I'm also in a Pos graduation course in Software Engineering with Descomplica
+- 🌱 I'm also in a Pos graduation course in Software Engineering at Descomplica
 <!---
 SMALL ICONS
 --->
